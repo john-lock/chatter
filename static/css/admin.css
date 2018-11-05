@@ -56,3 +56,7 @@ tr .sender span {
 .response {
     display: none;
 }
+#admin-bg {
+  background: url(../images/bg.png);
+}
+}
